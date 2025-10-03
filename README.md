@@ -34,8 +34,8 @@ Yeh dekho, step by step samjhata hu kaise install karna h. Bilkul simple h! 😎
 
 1. **Repository clone karo**:
 ```bash
-git clone <repository-url>
-cd crypto-trading-bot
+git clone https://github.com/somdipto/CryptoFlow.git
+cd CryptoFlow
 ```
 
 2. **Dependencies install karo**:
